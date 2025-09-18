@@ -8,6 +8,7 @@ Multi-Crypto Wallet Finder 🔍💰
 A powerful and elegant desktop application for discovering cryptocurrency wallets by generating and checking addresses against known rich wallets databases. Supports Bitcoin, Ethereum, Tron, and Dogecoin with real-time visualization and performance metrics.
 
 <img width="600" src="https://iili.io/K7H0HDN.png"></img>
+
 Screenshot Memonic phraze (12 words)
 
 =======
@@ -15,8 +16,8 @@ Screenshot Memonic phraze (12 words)
 <img width="600" src="https://iili.io/K7HrTfn.png"></img>
 
 Screenshot placeholder
->>>>>>> Stashed changes
-✨ Features
+
+##✨ Features
 Dual Generation Modes: Choose between direct private key generation or BIP39 mnemonic phrase (12 words) generation
 
 Multi-Currency Support: Simultaneously check for Bitcoin (BTC), Ethereum (ETH), Tron (TRX), and Dogecoin (DOGE) wallets
