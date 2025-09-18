@@ -8,7 +8,11 @@ https://img.shields.io/badge/Platform-Windows%2520%257C%2520Linux%2520%257C%2520
 A powerful and elegant desktop application for discovering cryptocurrency wallets by generating and checking addresses against known rich wallets databases. Supports Bitcoin, Ethereum, Tron, and Dogecoin with real-time visualization and performance metrics.
 
 https://iili.io/K7H0HDN.png Screenshot placeholder
+<<<<<<< Updated upstream
 
+=======
+https://iili.io/K7HrTfn.png Screenshot placeholder
+>>>>>>> Stashed changes
 ✨ Features
 Dual Generation Modes: Choose between direct private key generation or BIP39 mnemonic phrase (12 words) generation
 
@@ -24,7 +28,11 @@ Multi-threading: Utilize multiple CPU cores for maximum generation speed
 
 Address Monitoring: Compare generated addresses against provided address lists
 
+<<<<<<< Updated upstream
 🚀 Installation
+=======
+##🚀 Installation
+>>>>>>> Stashed changes
 Prerequisites
 Python 3.8 or higher
 
@@ -34,17 +42,36 @@ Step-by-Step Installation
 Clone the repository:
 
 bash
+<<<<<<< Updated upstream
 git clone https://github.com/dima8882/crypto-wallet-finder.git
 cd crypto-wallet-finder
 Create a virtual environment (recommended):
 
 bash
 python -m venv venv
+=======
+```
+git clone https://github.com/dima8882/crypto-wallet-finder.git
+cd crypto-wallet-finder
+```
+Create a virtual environment (recommended):
+
+bash
+```
+python -m venv venv
+```
+>>>>>>> Stashed changes
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 Install required dependencies:
 
 bash
+<<<<<<< Updated upstream
 pip install -r requirements.txt
+=======
+```
+pip install -r requirements.txt
+```
+>>>>>>> Stashed changes
 Prepare address files:
 
 Place your address list files in the application directory:
@@ -157,6 +184,10 @@ The application does not connect to any blockchain networks; it only performs lo
 🛠️ Development
 Project Structure
 text
+<<<<<<< Updated upstream
+=======
+```
+>>>>>>> Stashed changes
 crypto-wallet-finder/
 ├── wallet_finder.py      # Main application file
 ├── requirements.txt      # Python dependencies
@@ -165,6 +196,10 @@ crypto-wallet-finder/
 ├── trx500.txt           # Tron address list
 ├── doge500.txt          # Dogecoin address list
 └── README.md            # This file
+<<<<<<< Updated upstream
+=======
+```
+>>>>>>> Stashed changes
 Extending the Application
 To add support for additional cryptocurrencies:
 
@@ -198,4 +233,8 @@ Python developers for excellent libraries
 
 Open source contributors for their valuable work
 
+<<<<<<< Updated upstream
 Disclaimer: This software is intended for educational purposes only. The developers are not responsible for any misuse of this tool. Always comply with local laws and regulations regarding cryptocurrency activities.
+=======
+Disclaimer: This software is intended for educational purposes only. The developers are not responsible for any misuse of this tool. Always comply with local laws and regulations regarding cryptocurrency activities.
+>>>>>>> Stashed changes
