@@ -28,7 +28,6 @@ Multi-threading: Utilize multiple CPU cores for maximum generation speed
 
 Address Monitoring: Compare generated addresses against provided address lists
 
-<<<<<<< Updated upstream
 🚀 Installation
 =======
 ##🚀 Installation
@@ -42,25 +41,24 @@ Step-by-Step Installation
 Clone the repository:
 
 bash
-<<<<<<< Updated upstream
-git clone https://github.com/dima8882/crypto-wallet-finder.git
-cd crypto-wallet-finder
-Create a virtual environment (recommended):
-
-bash
-python -m venv venv
-=======
 ```
 git clone https://github.com/dima8882/crypto-wallet-finder.git
 cd crypto-wallet-finder
-```
 Create a virtual environment (recommended):
+```
 
 bash
 ```
 python -m venv venv
+git clone https://github.com/dima8882/crypto-wallet-finder.git
+cd crypto-wallet-finder
 ```
->>>>>>> Stashed changes
+Create a virtual environment (recommended):
+
+bash
+```
+python -m venv venv
+```
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 Install required dependencies:
 
@@ -71,7 +69,7 @@ pip install -r requirements.txt
 ```
 pip install -r requirements.txt
 ```
->>>>>>> Stashed changes
+
 Prepare address files:
 
 Place your address list files in the application directory:
@@ -184,10 +182,8 @@ The application does not connect to any blockchain networks; it only performs lo
 🛠️ Development
 Project Structure
 text
-<<<<<<< Updated upstream
 =======
 ```
->>>>>>> Stashed changes
 crypto-wallet-finder/
 ├── wallet_finder.py      # Main application file
 ├── requirements.txt      # Python dependencies
@@ -196,10 +192,8 @@ crypto-wallet-finder/
 ├── trx500.txt           # Tron address list
 ├── doge500.txt          # Dogecoin address list
 └── README.md            # This file
-<<<<<<< Updated upstream
-=======
 ```
->>>>>>> Stashed changes
+
 Extending the Application
 To add support for additional cryptocurrencies:
 
@@ -233,8 +227,8 @@ Python developers for excellent libraries
 
 Open source contributors for their valuable work
 
-<<<<<<< Updated upstream
+
 Disclaimer: This software is intended for educational purposes only. The developers are not responsible for any misuse of this tool. Always comply with local laws and regulations regarding cryptocurrency activities.
 =======
 Disclaimer: This software is intended for educational purposes only. The developers are not responsible for any misuse of this tool. Always comply with local laws and regulations regarding cryptocurrency activities.
->>>>>>> Stashed changes
+
