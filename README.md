@@ -1,23 +1,25 @@
 # Multi-Crypto-Wallet-Finder
 
 Multi-Crypto Wallet Finder 🔍💰
-<img src="https://img.shields.io/badge/Python-3.8%252B-blue"></img>
+<img src="https://img.shields.io/badge/Python-3.8.2B-blue"></img>
 <img src="https://img.shields.io/badge/License-MIT-green"></img>
-<img src="https://img.shields.io/badge/Platform-Windows%2520%257C%2520Linux%2520%257C%2520macOS-lightgrey"></img>
+<img src="https://img.shields.io/badge/Platform-Windows/Linux/macOS-lightgrey"></img>
 
 A powerful and elegant desktop application for discovering cryptocurrency wallets by generating and checking addresses against known rich wallets databases. Supports Bitcoin, Ethereum, Tron, and Dogecoin with real-time visualization and performance metrics.
 
-<img width="600" src="https://iili.io/K7H0HDN.png"></img>
+<img src="https://iili.io/K7H0HDN.png"></img>
 
-Screenshot Memonic phraze (12 words)
+Screenshot Memonic Phrase (12 words)
 
-=======
+===============================
 
-<img width="600" src="https://iili.io/K7HrTfn.png"></img>
+<img src="https://iili.io/K7HrTfn.png"></img>
 
-Screenshot placeholder
+Screenshot Private Key Generation
 
-##✨ Features
+===============================
+
+✨ Features
 Dual Generation Modes: Choose between direct private key generation or BIP39 mnemonic phrase (12 words) generation
 
 Multi-Currency Support: Simultaneously check for Bitcoin (BTC), Ethereum (ETH), Tron (TRX), and Dogecoin (DOGE) wallets
@@ -34,8 +36,8 @@ Address Monitoring: Compare generated addresses against provided address lists
 
 🚀 Installation
 =======
-##🚀 Installation
->>>>>>> Stashed changes
+🚀 Installation
+
 Prerequisites
 Python 3.8 or higher
 
@@ -63,13 +65,11 @@ bash
 ```
 python -m venv venv
 ```
+
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 Install required dependencies:
 
 bash
-<<<<<<< Updated upstream
-pip install -r requirements.txt
-=======
 ```
 pip install -r requirements.txt
 ```
@@ -91,7 +91,10 @@ Each file should contain one address per line
 Run the application:
 
 bash
+```
 python wallet_finder.py
+```
+
 📦 Dependencies
 The application requires the following Python packages:
 
@@ -185,8 +188,8 @@ The application does not connect to any blockchain networks; it only performs lo
 
 🛠️ Development
 Project Structure
+
 text
-=======
 ```
 crypto-wallet-finder/
 ├── wallet_finder.py      # Main application file
@@ -232,7 +235,8 @@ Python developers for excellent libraries
 Open source contributors for their valuable work
 
 
+
 Disclaimer: This software is intended for educational purposes only. The developers are not responsible for any misuse of this tool. Always comply with local laws and regulations regarding cryptocurrency activities.
 =======
-Disclaimer: This software is intended for educational purposes only. The developers are not responsible for any misuse of this tool. Always comply with local laws and regulations regarding cryptocurrency activities.
+
 
