@@ -2,16 +2,19 @@
 
 Multi-Crypto Wallet Finder 🔍💰
 <img src="https://img.shields.io/badge/Python-3.8%252B-blue"></img>
-https://img.shields.io/badge/License-MIT-green
-https://img.shields.io/badge/Platform-Windows%2520%257C%2520Linux%2520%257C%2520macOS-lightgrey
+<img src="https://img.shields.io/badge/License-MIT-green"></img>
+<img src="https://img.shields.io/badge/Platform-Windows%2520%257C%2520Linux%2520%257C%2520macOS-lightgrey"></img>
 
 A powerful and elegant desktop application for discovering cryptocurrency wallets by generating and checking addresses against known rich wallets databases. Supports Bitcoin, Ethereum, Tron, and Dogecoin with real-time visualization and performance metrics.
 
-https://iili.io/K7H0HDN.png Screenshot placeholder
-<<<<<<< Updated upstream
+<img width="600" src="https://iili.io/K7H0HDN.png"></img>
+Screenshot Memonic phraze (12 words)
 
 =======
-https://iili.io/K7HrTfn.png Screenshot placeholder
+
+<img width="600" src="https://iili.io/K7HrTfn.png"></img>
+
+Screenshot placeholder
 >>>>>>> Stashed changes
 ✨ Features
 Dual Generation Modes: Choose between direct private key generation or BIP39 mnemonic phrase (12 words) generation
