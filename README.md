@@ -1,7 +1,7 @@
 # Multi-Crypto-Wallet-Finder
 
 Multi-Crypto Wallet Finder 🔍💰
-https://img.shields.io/badge/Python-3.8%252B-blue
+<img src="https://img.shields.io/badge/Python-3.8%252B-blue"></img>
 https://img.shields.io/badge/License-MIT-green
 https://img.shields.io/badge/Platform-Windows%2520%257C%2520Linux%2520%257C%2520macOS-lightgrey
 
