@@ -1,0 +1,21 @@
+# Multi-Crypto Wallet Finder Requirements
+# Python 3.8+ required
+
+# GUI Framework
+tkinter
+
+# Cryptography & Blockchain
+ecdsa==0.18.0
+base58==2.1.1
+pycryptodome==3.20.0
+mnemonic==0.20
+bip32utils==0.3.post4
+
+# System Monitoring
+psutil==5.9.8
+
+# Data Visualization
+matplotlib==3.8.2
+
+# Additional Utilities
+Pillow==10.1.0  # For potential image support
